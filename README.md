@@ -1,1 +1,1 @@
-this repository is for AirBnB project tasks
+deploy web static
